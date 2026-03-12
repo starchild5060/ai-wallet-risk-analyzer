@@ -1,0 +1,11 @@
+{
+  "name": "ai-wallet-risk-analyzer",
+  "version": "1.0.0",
+  "description": "AI-inspired crypto wallet risk analysis tool for fintech platforms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "StarChild",
+  "license": "MIT"
+}
