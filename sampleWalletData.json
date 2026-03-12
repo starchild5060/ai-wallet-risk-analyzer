@@ -1,0 +1,25 @@
+{
+  "wallet": "0x92fa1839ab12c8ef",
+  "transactions": [
+    {
+      "amount": 0.3,
+      "type": "swap",
+      "counterparty": "dex"
+    },
+    {
+      "amount": 2.4,
+      "type": "transfer",
+      "counterparty": "unknown"
+    },
+    {
+      "amount": 0.1,
+      "type": "transfer",
+      "counterparty": "flagged_wallet"
+    },
+    {
+      "amount": 5.1,
+      "type": "deposit",
+      "counterparty": "exchange"
+    }
+  ]
+}
